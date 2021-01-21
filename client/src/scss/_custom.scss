@@ -1,0 +1,41 @@
+// Here you can add other styles
+
+// fix sidebar color
+.c-sidebar {
+  background-color: #3b5999;
+  a:hover {
+    color: #fff;
+    background: #f35b04 !important;
+  }
+}
+
+.home-page {
+  img {
+    width: 100%;
+  }
+}
+.custom-card-bg {
+  background-color: #8ea604;
+  height: 280px;
+}
+.mtb-50 {
+  margin: 50px 0;
+}
+.c-sidebar .c-sidebar-brand {
+  text-decoration: none;
+}
+.c-sidebar .c-sidebar-brand:hover {
+  color: white;
+}
+.c-sidebar-brand:hover h3 {
+  color: white;
+}
+
+// Sidebar
+.c-sidebar-nav-link {
+  i {
+    font-size: 22px;
+    margin: 0 10px;
+    width: 30px;
+  }
+}
